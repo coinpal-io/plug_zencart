@@ -11,17 +11,17 @@
 ![](./img/api-key.png)
 
 ## Step 2: Installing the Coinpal Plugin on your ZenCart Site.
-1. Click the  [Coinpal plug](https://github.com/CoinpalGroup/plug_ZenCart/blob/master/coinpal.ocmod.zip)  Download Coinpal WooCommerce Payment Plug
+1. Click the  [Coinpal plug](https://github.com/CoinpalGroup/plug_ZenCart/blob/master/coinpal.zip)  Download Coinpal ZenCart Payment Plug
 2. Unzip the coinpal.zip file and enter the coinpal folder
 ![](./img/file1.png)
 
-3.  Copy the coinpal_notify.php file to the root directory of the zencart project
+3.  Copy the coinpal_notify.php file to the root directory of the ZenCart project
 ![](./img/file2.png)
 
-4. Copy the includes\languages\english\modules\payment\coinpal.php file to the zencart project includes\languages\english\modules\payment
+4. Copy the includes\languages\english\modules\payment\coinpal.php file to the ZenCart project includes\languages\english\modules\payment
 ![](./img/file3.png)
 
-5. Copy all files in includes\modules\payment to zencart project includes\modules\payment
+5. Copy all files in includes\modules\payment to ZenCart project includes\modules\payment
 ![](./img/file4.png)
 
 3. Activate the Coinpal ZenCart Gateway
