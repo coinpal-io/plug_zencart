@@ -39,7 +39,7 @@ Click Update Changes.
 ![](./img/edit.png)
 
 
-## Step 3: Testing your Coinpal WooCommerce Integration.
+## Step 3: Testing your Coinpal Magento Integration.
 
 To confirm your Integration is properly working create a test order:
 
