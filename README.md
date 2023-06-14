@@ -40,7 +40,7 @@ Click Update Changes.
 ![](./img/edit.png)
 
 
-## Step 3: Testing your Coinpal Magento Integration.
+## Step 3: Testing your Coinpal ZenCart Integration.
 
 To confirm your Integration is properly working create a test order:
 
