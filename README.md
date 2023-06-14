@@ -51,12 +51,14 @@ Proceed to Checkout
 Select 'Pay Crypto with Coinpal' as the payment method.
 
 Click Continue button
+
 ![](./img/checkout.png)
 
 Click Confirm Order button
-![](./img/checkout2.png)
 
 If you like you can now proceed to making a test payment.
+
+![](./img/checkout2.png)
 
 
 ## Step 4: Marking a Payment as Received on ZenCart.
@@ -67,7 +69,7 @@ Go to the ZenCart Section and Click Orders.
 
 You will see the test orders marked as “Paid”.
 
-Verify the coins are in your chosen Coinpal Wallet (these are the addresses you input during Step #1).
+Check whether coins are settled to the CoinPal wallet.
 
 You may also use a Block Explorer to verify if the transaction was processed.
 
